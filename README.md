@@ -1,7 +1,7 @@
 # Assignment-4-Javascript-Problem-Solving-Raw
-// Problem number-1 
+// 💎 Problem number-1 💎
 /* 
-Description: This function can do multiple operations like addition, subtraction, multiplication, and division for a positive number at a time. 
+📝 Description: This function can do multiple operations like addition, subtraction, multiplication, and division for a positive number at a time. 
 */
 function mindGame(num) {
   if (typeof num === 'number') {
@@ -16,9 +16,9 @@ function mindGame(num) {
   }
 }
 
-// Problem number-2 
+// 💎 Problem number-2 💎
 /*
-Description: This is a function that shows the sum of characters in a string as odd or even.
+📝 Description: This is a function that shows the sum of characters in a string as odd or even.
 */
 function evenOdd(str) {
   if (typeof str === "string") {
@@ -34,9 +34,9 @@ function evenOdd(str) {
   }
 }
 
-// Problem number-3 
+// 💎 Problem number-3 💎
 /*
-In this function, we are going to find the difference between the input value and 7.
+📝 In this function, we are going to find the difference between the input value and 7.
 */
 function isLGSeven(input) {
   let result = input - 7;
@@ -48,9 +48,9 @@ function isLGSeven(input) {
   }
 }
 
-// Problem number-4 
+// 💎 Problem number-4 💎
 /*
-In this function, we are going to find out bad data from an array.
+📝 In this function, we are going to find out bad data from an array.
 */
 function findingBadData(arr) {
   let sum = 0;
@@ -62,9 +62,9 @@ function findingBadData(arr) {
   return sum;
 }
 
-// Problem number-5 
+// 💎 Problem number-5 💎
 /*
-This is a function of three input numbers then you can convert those numbers into one number by running some problematic operation.
+📝 This is a function of three input numbers then you can convert those numbers into one number by running some problematic operation.
 */
 function gemsToDiamond(num1, num2, num3) {
   let total = num1 * 21 + num2 * 32 + num3 * 43;
@@ -75,3 +75,4 @@ function gemsToDiamond(num1, num2, num3) {
     return total;
   }
 }
+
